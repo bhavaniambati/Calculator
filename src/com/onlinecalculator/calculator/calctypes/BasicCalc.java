@@ -49,8 +49,7 @@ public class BasicCalc
     	a=S.nextInt();
     	System.out.println("enter second number");
     	b=S.nextInt();
-    	/*System.out.println("enter third number");
-    	ch=S.nextInt();*/
+    	
     	
     }
 
